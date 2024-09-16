@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TechPath/static/css/main.fbfba234.css",
+    "main.js": "/TechPath/static/js/main.3019a25f.js",
+    "static/media/funny2.png": "/TechPath/static/media/funny2.815b2dc1b1fe43585fb7.png",
+    "static/media/funny.png": "/TechPath/static/media/funny.92961f64176ef83e225c.png",
+    "static/media/cat.png": "/TechPath/static/media/cat.7c388e7d00e1c582169a.png",
+    "index.html": "/TechPath/index.html",
+    "main.fbfba234.css.map": "/TechPath/static/css/main.fbfba234.css.map",
+    "main.3019a25f.js.map": "/TechPath/static/js/main.3019a25f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbfba234.css",
+    "static/js/main.3019a25f.js"
+  ]
+}
